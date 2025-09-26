@@ -9,5 +9,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r }
+## B.6
 print('hello')
+## B.7
+print('hello again')
 ```
