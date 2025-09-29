@@ -1,5 +1,5 @@
 
-### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxuZmdreGllenl1cTB6OTc0NHBsOWc0NTVib3RvcmJ4eTE1N3JzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTLV2erK8vf1MIz4Rk/giphy.gif" width="50"> Hello! My name is Victor.
+### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZXd4bWNtYnM0MTc5dHhlMDU1MXlxbTNyOTM2cWNvbGxucHY5d2swMiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/10bKPDUM5H7m7u/giphy.gif" width="50"> Hello! My name is Victor.
 
 ```javascript
 const Vic = {
@@ -8,3 +8,4 @@ const Vic = {
              Please find PSYCH251_PSET1.rmd, a basic script written in R Markdown. "
 }
 ```
+### <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjh2Mm94a2Q0bzYybm1nYWRsOGl3bmlpeHlvODgzYzhwa2c4YmNpMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cnk4ZRTlfeI32o/giphy.gif">
