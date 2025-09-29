@@ -10,7 +10,4 @@ class Vic:
         self.purpose = (
             "This repo was created to fulfill the requirements of PSet 01 for Psych 251.\nPlease find PSYCH251_PSET1.rmd, a basic script written in R Markdown."
         )
-vic = Vic()
-print(vic.affiliation)
-print(vic.purpose)
 ```
