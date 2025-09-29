@@ -8,6 +8,7 @@ class Vic:
     def __init__(self):
         self.affiliation = "Lab Manager @ LangCog Lab"
         self.repo_purpose = (
-            "This repo was created to fulfill the requirements of PSet 01 for Psych 251.\n Please find PSYCH251_PSET1.rmd, a basic script written in R Markdown."
+            "This repo was created to fulfill the requirements of PSet 01 for Psych 251.\n
+             Please find PSYCH251_PSET1.rmd, a basic script written in R Markdown."
         )
 ```
