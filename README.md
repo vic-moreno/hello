@@ -2,8 +2,7 @@
 ### Hello! My name is Vic. 
 <p align="right">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjh2Mm94a2Q0bzYybm1nYWRsOGl3bmlpeHlvODgzYzhwa2c4YmNpMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cnk4ZRTlfeI32o/giphy.gif" width="200"/>
-</p> 
-
+  
 ```javascript
 const Vic = {
   affiliation: "Lab Manager @ LangCog Lab",
@@ -11,3 +10,5 @@ const Vic = {
              Please find PSYCH251_PSET1.rmd, a basic script written in R Markdown. "
 }
 ```
+
+</p> 
