@@ -3,12 +3,8 @@
 
 ```javascript
 const Vic = {
-  affiliation: "Lab Manager @ LangCog Lab[https://langcog.stanford.edu/]",
-  code: [Python, R, HTML, CSS, Javascript],
-  purpose: "This repo was created to fufill the requirements of PSet 01 for Psych 251. Please find PSYCH251_PSET1.rmd, a basic script written in R Markdown.  "
+  affiliation: "Lab Manager @ [![LangCog Lab](https://langcog.stanford.edu/)",
+  purpose: "This repo was created to fufill the requirements of PSet 01 for Psych 251.
+            Please find PSYCH251_PSET1.rmd, a basic script written in R Markdown.  "
 }
 ```
-
-</em>
-
----
